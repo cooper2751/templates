@@ -7,6 +7,9 @@ standard: uk
 link: https://www.appliancesdirect.co.uk/p/iq-wifibulbb22/electriq-iqwifibulbb22-smart-bulb
 image: https://www.laptopsdirect.co.uk/Images/IQ-wifiBulbB22_1_5113362_LargeProductImage.jpg?width=700&height=700&v=2
 template: '{"NAME":"ElectricQ B22","GPIO":[255,255,255,255,37,41,255,255,38,40,39,255,255],"FLAG":0,"BASE":18}' 
+
+              "2019 lamp bought via link works with this template
+          {"NAME":"electriq b22 R","GPIO":[255,255,255,255,140,37,255,255,255,142,141,255,255],"FLAG":0,"BASE":18}
 link_alt: 
 ---
 
